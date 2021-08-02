@@ -1,0 +1,14 @@
+lemma,manual_lemma,unique_candidates,pos,lemma_freq,base_freq,true_lemma,true_base
+Filament,,filieren,VVINF,125,0,0,
+Firmament,,firmieren,VVINF,406,67,1,1.0
+Fundament,,fundieren,VVINF,6684,80,1,1.0
+Malariamedikament,,malariamedikieren,VVINF,17,0,0,
+Medikament,,medizieren,VVINF,25377,0,0,
+Medikament,,medikieren,VVINF,25280,0,0,
+Notfallmedikament,,notfallmedikieren,VVINF,80,0,0,
+Ornament,,ornieren,VVINF,1124,0,0,
+Parlament,,parlieren,VVINF,17520,0,0,
+Pergament,,pergieren,VVINF,650,0,0,
+Sakrament,,sakrieren,VVINF,2092,0,0,
+Temperament,,temperieren,VVINF,1839,0,0,
+Testament,,testieren,VVINF,8502,24,1,1.0

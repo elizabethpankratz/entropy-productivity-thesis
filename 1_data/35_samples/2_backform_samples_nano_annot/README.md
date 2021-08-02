@@ -1,0 +1,3 @@
+- `X_base_annot.csv`: Annotated generated bases and their frequencies.
+- `X_unique_annot.csv`: Subsets of `X_base_annot.csv` with unique lemmas (for more efficient annotation).
+  - Created using `unibase.py`, merged back with the main file `X_base_annot.csv` using `mergebase.py`

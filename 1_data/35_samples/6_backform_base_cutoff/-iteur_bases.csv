@@ -1,0 +1,12 @@
+lemma,manual_lemma,unique_candidates,pos,lemma_freq,base_freq,true_lemma,true_base
+Akquisiteur,,akquisieren,VVINF,21,0,0,
+Auditeur,,audieren,VVINF,8,0,0,
+Definiteur,,definieren,VVINF,0,5980,1,1.0
+Dispositeur,,disposieren,VVINF,0,0,0,
+Kompositeur,,komposieren,VVINF,6,0,0,
+Moniteur,,monieren,VVINF,37,80,1,1.0
+Oberauditeur,,oberaudieren,VVINF,0,0,0,
+Oppositeur,,opposieren,VVINF,1,0,0,
+Repetiteur,,repetieren,VVINF,1,28,1,1.0
+Requisiteur,,requisieren,VVINF,52,0,0,
+Spediteur,,spedieren,VVINF,703,0,0,

@@ -1,0 +1,12 @@
+lemma,manual_lemma,unique_candidates,pos,lemma_freq,base_freq,true_lemma,true_base
+Assortiment,,assortieren,VVINF,4,0,0,
+Experiment,,experieren,VVINF,15176,0,0,
+Kompliment,,komplieren,VVINF,5168,0,0,
+Regiment,,regieren,VVINF,2758,1714,1,1.0
+Ressentiment,,ressentieren,VVINF,903,0,0,
+Rudiment,,rudieren,VVINF,100,0,0,
+Sediment,,sedieren,VVINF,1031,0,0,
+Sentiment,,sentieren,VVINF,150,0,0,
+Sortiment,,sortieren,VVINF,11655,1819,1,1.0
+Aliment,,alieren,VVINF,168,0,0,
+Piment,,pieren,VVINF,116,0,0,
